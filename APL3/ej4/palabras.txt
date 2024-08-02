@@ -1,0 +1,6 @@
+"El que hace pan"/panadero
+"El que apaga incendios"/bombero
+"El que dicta la clase"/profesor
+"El que rinde los parciales"/alumno
+"El que atrapa criminales"/policia
+"El que crea obras de arte"/artista

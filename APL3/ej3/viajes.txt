@@ -1,0 +1,8 @@
+ID	CHOFER	ORIGEN-DESTINO	KMS	GASOIL	VALOR
+
+1	Hirschfeldt	LaPlata-Córdoba	750	225	60000
+2	Capriotti	Fernández-C.A.B.A	1000	300	50000
+3	Hirschfeldt	LaPlata-Malargüe	1220	370	85000
+4	Corrales	Fernández-C.A.B.A	300	400	50500
+5	Corrales	LaPlata-Córdoba	1500	500	100000
+

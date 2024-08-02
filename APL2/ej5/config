@@ -1,0 +1,5 @@
+./logs comprimidos
+./web/primer servicio/registros
+./web/segundo servicio/archivos temporales
+./web/primer servicio/../tercer servicio/logs
+./web/archivos2030/logs_futuros
